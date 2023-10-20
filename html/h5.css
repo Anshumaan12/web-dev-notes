@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: myFirstFont;
+    src: url();
+  }
+
+#img{
+    width: 450px;
+    height: 250px;
+    border:1px solid black;
+    border-radius: 10px;
+}
+#box{
+ 
+    width: 450px;
+    height:440px;
+   
+    border:1px solid white;
+    padding:20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px;
+    position:absolute;
+
+}
+#info{
+    font-size: larger;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#rate{
+    font-weight: bold;
+    font-size:x-large;
+   color: rgb(26, 172, 221);
+   margin: 10px;
+ 
+}
+#old_rate{
+    font-weight: bold;
+    font-size:x-large;
+   
+    
+}
+#dis{
+    display: inline-block;
+    font-weight: bold;
+    margin: 10px;
+    font-size: x-large;
+    border:1px solid white; 
+    background-color: rgb(28, 185, 78);
+    color: white;
+    border-radius: 15px;
+    padding: 8px;
+    text-align: center;
+    
+}

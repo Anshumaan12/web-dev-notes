@@ -1,0 +1,12 @@
+
+
+#xyz{
+     background-color: aqua;
+  margin: 200px;
+    /* transform: translate(100px,200px);  */
+    /* transform: rotate(-45deg); */
+ transform:scale(2,5);
+ transform-origin: left top;
+ transform: skew(20deg);
+}
+ 

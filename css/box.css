@@ -1,0 +1,18 @@
+.box{
+    width:300px;
+    height:300px;  
+    margin: 20px;
+    border:2px solid black;
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+#abc{
+ background-color:orange;
+}
+#xyz{
+background-color: red;
+}
+#qwe{
+background-color: green;
+}

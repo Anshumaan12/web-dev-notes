@@ -1,0 +1,17 @@
+.container{
+    height: 500px;
+    width: 500px;
+    border:1px solid black;
+    background-color: brown;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border:1px solid black;
+    
+    background-color: aqua;
+}
+.box:hover{
+    transform: rotate(360deg);
+    width: 100%;
+}
